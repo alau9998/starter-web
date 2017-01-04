@@ -8,6 +8,8 @@ This is example is to show different parts of GIT repo and various command
 
 ## Purpose
 
+This is the purpose
+
 ## Deployment
 
 ## How to Contribute
