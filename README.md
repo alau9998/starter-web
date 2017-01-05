@@ -2,6 +2,7 @@
 
 This is simple web site, change a line for rebase example
 more changes from myfeature branch
+change after stash lesson 65
 
 ## Introduction
 
