@@ -13,4 +13,7 @@ more purpose
 
 ## Deployment
 
+Thisis simple deployment
+deplyoment can be
+
 ## How to Contribute
