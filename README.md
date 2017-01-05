@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is simple web site, change a line for rebase example
+more changes from myfeature branch
 
 ## Introduction
 
