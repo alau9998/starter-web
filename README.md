@@ -18,5 +18,7 @@ deplyoment can be
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Request for review
+
 ### Copyright
 1114
